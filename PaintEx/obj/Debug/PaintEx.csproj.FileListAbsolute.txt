@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\bin\Debug\PaintEx.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\bin\Debug\PaintEx.exe
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\bin\Debug\PaintEx.pdb
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\obj\Debug\PaintEx.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\obj\Debug\PaintEx.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\obj\Debug\PaintEx.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\obj\Debug\PaintEx.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\obj\Debug\PaintEx.exe
+c:\users\user\documents\visual studio 2015\Projects\PaintEx\PaintEx\obj\Debug\PaintEx.pdb
