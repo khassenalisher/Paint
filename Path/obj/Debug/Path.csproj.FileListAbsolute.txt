@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\bin\Debug\Path.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\bin\Debug\Path.exe
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\bin\Debug\Path.pdb
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\obj\Debug\Path.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\obj\Debug\Path.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\obj\Debug\Path.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\obj\Debug\Path.exe
+C:\Users\User\documents\visual studio 2015\Projects\PaintEx\Path\obj\Debug\Path.pdb
